@@ -1,0 +1,40 @@
+C:\Users\Yuriy\Desktop\111\sonar\sonar\sonar\bin\Debug\le\FEZ Panda II Application.exe
+C:\Users\Yuriy\Desktop\111\sonar\sonar\sonar\bin\Debug\be\FEZ Panda II Application.exe
+C:\Users\Yuriy\Desktop\111\sonar\sonar\sonar\bin\Debug\le\FEZ Panda II Application.pdb
+C:\Users\Yuriy\Desktop\111\sonar\sonar\sonar\bin\Debug\be\FEZ Panda II Application.pdb
+C:\Users\Yuriy\Desktop\111\sonar\sonar\sonar\bin\Debug\FEZ Panda II Application.exe
+C:\Users\Yuriy\Desktop\111\sonar\sonar\sonar\bin\Debug\FEZ Panda II Application.pdb
+C:\Users\Yuriy\Desktop\111\sonar\sonar\sonar\bin\Debug\le\FEZ Panda II Application.pe
+C:\Users\Yuriy\Desktop\111\sonar\sonar\sonar\bin\Debug\le\FEZ Panda II Application.pdbx
+C:\Users\Yuriy\Desktop\111\sonar\sonar\sonar\bin\Debug\be\FEZ Panda II Application.pe
+C:\Users\Yuriy\Desktop\111\sonar\sonar\sonar\bin\Debug\be\FEZ Panda II Application.pdbx
+C:\Users\Yuriy\Desktop\111\sonar\sonar\sonar\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pe
+C:\Users\Yuriy\Desktop\111\sonar\sonar\sonar\bin\Debug\LE\GHIElectronics.NETMF.IO.pe
+C:\Users\Yuriy\Desktop\111\sonar\sonar\sonar\bin\Debug\LE\GHIElectronics.NETMF.System.pe
+C:\Users\Yuriy\Desktop\111\sonar\sonar\sonar\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pe
+C:\Users\Yuriy\Desktop\111\sonar\sonar\sonar\bin\Debug\BE\GHIElectronics.NETMF.IO.pe
+C:\Users\Yuriy\Desktop\111\sonar\sonar\sonar\bin\Debug\BE\GHIElectronics.NETMF.System.pe
+C:\Users\Yuriy\Desktop\111\sonar\sonar\sonar\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pdbx
+C:\Users\Yuriy\Desktop\111\sonar\sonar\sonar\bin\Debug\LE\GHIElectronics.NETMF.IO.pdbx
+C:\Users\Yuriy\Desktop\111\sonar\sonar\sonar\bin\Debug\LE\GHIElectronics.NETMF.System.pdbx
+C:\Users\Yuriy\Desktop\111\sonar\sonar\sonar\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pdbx
+C:\Users\Yuriy\Desktop\111\sonar\sonar\sonar\bin\Debug\BE\GHIElectronics.NETMF.IO.pdbx
+C:\Users\Yuriy\Desktop\111\sonar\sonar\sonar\bin\Debug\BE\GHIElectronics.NETMF.System.pdbx
+C:\Users\Yuriy\Desktop\111\sonar\sonar\sonar\bin\Debug\GHIElectronics.NETMF.Hardware.dll
+C:\Users\Yuriy\Desktop\111\sonar\sonar\sonar\bin\Debug\GHIElectronics.NETMF.IO.dll
+C:\Users\Yuriy\Desktop\111\sonar\sonar\sonar\bin\Debug\GHIElectronics.NETMF.System.dll
+C:\Users\Yuriy\Desktop\111\sonar\sonar\sonar\bin\Debug\GHIElectronics.NETMF.Hardware.xml
+C:\Users\Yuriy\Desktop\111\sonar\sonar\sonar\bin\Debug\GHIElectronics.NETMF.IO.xml
+C:\Users\Yuriy\Desktop\111\sonar\sonar\sonar\bin\Debug\GHIElectronics.NETMF.System.xml
+C:\Users\Yuriy\Desktop\111\sonar\sonar\sonar\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Yuriy\Desktop\111\sonar\sonar\sonar\obj\Debug\sonar.Resources.resources
+C:\Users\Yuriy\Desktop\111\sonar\sonar\sonar\obj\Debug\sonar.csproj.GenerateResource.Cache
+C:\Users\Yuriy\Desktop\111\sonar\sonar\sonar\obj\Debug\sonar.Resources.tinyresources
+C:\Users\Yuriy\Desktop\111\sonar\sonar\sonar\obj\Debug\TinyResGen.cache
+C:\Users\Yuriy\Desktop\111\sonar\sonar\sonar\obj\Debug\be\FEZ Panda II Application.pe
+C:\Users\Yuriy\Desktop\111\sonar\sonar\sonar\obj\Debug\be\FEZ Panda II Application.pdbx
+C:\Users\Yuriy\Desktop\111\sonar\sonar\sonar\obj\Debug\le\FEZ Panda II Application.pe
+C:\Users\Yuriy\Desktop\111\sonar\sonar\sonar\obj\Debug\le\FEZ Panda II Application.pdbx
+C:\Users\Yuriy\Desktop\111\sonar\sonar\sonar\obj\Debug\FEZ Panda II Application.exe
+C:\Users\Yuriy\Desktop\111\sonar\sonar\sonar\obj\Debug\FEZ Panda II Application.pdb
+C:\Users\Yuriy\Desktop\111\sonar\sonar\sonar\obj\Debug\sonar.csprojResolveAssemblyReference.cache
